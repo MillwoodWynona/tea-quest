@@ -1,13 +1,14 @@
+
 {
-  "name": "MillwoodWynona/tea-quest",
+  "name": "@millwoodwynona/tea-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "millwoodwynona",
+  "author": "@millwoodwynona",
   "repository": "https://github.com/MillwoodWynona/tea-quest.git",
   "license": "ISC",
   "dependencies": {
-    "MillwoodWynona/tea-quest": "^2.0.0",
+    "@millwoodwynona/tea-quest": "^2.0.0",
     "express": "^4.18.3"
   }
 }
